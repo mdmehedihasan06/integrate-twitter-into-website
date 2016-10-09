@@ -1,7 +1,7 @@
 # Integrate Twitter into Website
 This will help to get to know the easiest way of integrating twitter timeline into your website with dark and light mode and also in 6 different colors.
 # Demo Page
-### [See the demo for Twitter itself]()
+### [See the demo for Twitter itself](https://plnkr.co/edit/Q7CKlCSsjk3WDCq8Aoqv?p=info)
 ## Just start integrating
 You will just need to place an anchor tag with your desired account into a div and then twitter widget script reference to your page.
 
@@ -40,3 +40,6 @@ you can get any twitter account feeds in your own website just by changing the h
    href="https://twitter.com/twitter"
 ``` 
 ### That's it. You are all set to see the magic.
+
+# Reference
+You can visit the original twitter publish page to get more detailed view [here](https://publish.twitter.com)
