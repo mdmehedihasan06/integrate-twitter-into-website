@@ -17,7 +17,7 @@ For regular light theme you just need to set the first value into the anchor tag
     data-theme="dark"
     
 ### Custom Color
-For regular color set <span style="color: #F5F8FA; border: 1px solid coral">White</span>
+For regular color set <div style="height:50px; width:50px; background-color: #F5F8FA; border: 1px solid coral">White</div>
 
     data-link-color="#F5F8FA"
 For violet color set
